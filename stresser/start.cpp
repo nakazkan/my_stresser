@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+ //панимаю
 
 int main () {
 	//открываю файл для чтения настроек
